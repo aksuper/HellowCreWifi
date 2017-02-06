@@ -1,2 +1,3 @@
 # HellowCreWifi
 HellowCreWifi test
+I love :coffee: :pizza:, and :dancer:.
